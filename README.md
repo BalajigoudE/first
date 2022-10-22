@@ -1,17 +1,17 @@
 # first
 aliet@DESKTOP-CUDM853 MINGW64 ~
-$ git config --global user.name "BalajigoudE"
+$ git config --global user.name 
 
 aliet@DESKTOP-CUDM853 MINGW64 ~
 $ git config --global user.name
-BalajigoudE
+
 
 aliet@DESKTOP-CUDM853 MINGW64 ~
-$ git config --global user.email "balajigoud3101@gmail.com"
+$ git config --global user.email 
 
 aliet@DESKTOP-CUDM853 MINGW64 ~
 $ git config --global user.email
-balajigoud3101@gmail.com
+
 
 aliet@DESKTOP-CUDM853 MINGW64 ~
 $ git init
