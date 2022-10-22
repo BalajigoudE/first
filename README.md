@@ -56,7 +56,7 @@ warning: in the working copy of 'project1/abc.txt', LF will be replaced by CRLF 
 
 aliet@DESKTOP-CUDM853 MINGW64 ~/project1 (master)
 $ git init
-Initialized empty Git repository in C:/Users/aliet/project1/.git/
+
 
 aliet@DESKTOP-CUDM853 MINGW64 ~/project1 (master)
 $ git status
@@ -87,7 +87,6 @@ $ git commit -m "first update"
 aliet@DESKTOP-CUDM853 MINGW64 ~/project1 (master)
 $ git log
 commit 3acf352c3ee47f85a7cabc579e43658ddbc32b2b (HEAD -> master)
-Author: BalajigoudE <balajigoud3101@gmail.com>
 Date:   Sat Oct 22 11:25:02 2022 +0530
 
     first update
